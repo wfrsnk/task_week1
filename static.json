@@ -1,6 +1,6 @@
 
 {
-  "Headers": {
+  "headers": {
     "/*": {
       "X-Author": "artem_wr",
       "Access-Control-Allow-Origin": "artem_wr"
